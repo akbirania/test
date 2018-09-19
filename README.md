@@ -1,4 +1,4 @@
 # test
 
 Hi everyone 
-i am new to Githi=ub and doing this totorials.
+i am new to Github and doing this totorials.
